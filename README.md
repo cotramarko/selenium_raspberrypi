@@ -1,5 +1,5 @@
 # selenium_raspberrypi
-Dockerfile for running python3 based selenium scripts on a raspberry pi (Raspbian Jessie).
+Dockerfile for running python3 based selenium scripts on a raspberry pi3.
 Uses firefox and geckodriver for the webdriver.
 
 ## Getting started
