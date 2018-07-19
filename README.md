@@ -1,6 +1,7 @@
 # selenium_raspberrypi
 Dockerfile for running python3 based selenium scripts on a raspberry pi3.
 Uses firefox and geckodriver for the webdriver.
+*Note, only works on raspberry pi (everything is compiled for an ARM architecture).*
 
 ## Getting started
 ```shell
